@@ -32,7 +32,7 @@ https://ahad-resume-builder.netlify.app
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/Ahadali786/alma-resume-builder.git
 ```
 
 Go to the project directory
