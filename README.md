@@ -38,7 +38,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Resume-Builder
+  cd alma-resume-builder
 ```
 
 Install dependencies
